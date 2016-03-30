@@ -1,0 +1,10 @@
+{
+	"data_dir": "/var/consul",
+	"ui_dir": "/usr/local/consul/ui/dist",
+	"client_addr": "0.0.0.0",
+	"advertise_addr": "IP ADDRESS OF THIS MACHINE",
+	"datacenter": "NAME FOR THIS DATA CENTER",
+	"disable_update_check": true,
+	"bootstrap_expect": 1,
+	"server" : true
+}
